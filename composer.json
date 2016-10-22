@@ -1,0 +1,20 @@
+{
+  "name": "isty001/json-dump",
+  "description": "Dump in pretty JSON format",
+  "keywords": [
+    "json",
+    "dump",
+    "var_dump",
+    "dumper"
+  ],
+  "homepage": "https://github.com/Isty001/json-dump",
+  "autoload": {
+    "psr-4": {
+      "JsonDump\\": "src/",
+      "JsonDump\\Test\\": "test/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "dev-master"
+  }
+}
