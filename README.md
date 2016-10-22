@@ -3,7 +3,7 @@
 Utility to dump any kind of PHP variable in pretty JSON format. Can be useful when the output is also expected to be JSON.
 
 
-#### Simple example:
+#### Example:
 
 ```php
 $var1 = "Hello";
